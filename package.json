@@ -1,0 +1,24 @@
+{
+  "name": "test-challenge",
+  "version": "1.0.0",
+  "description": "test challenge for csc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "cypress": "cypress run --spec 'cypress/integration/tests/**/*' --headless"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santonerodrigo/test-challenge.git"
+  },
+  "author": "Rodrigo Santone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santonerodrigo/test-challenge/issues"
+  },
+  "homepage": "https://github.com/santonerodrigo/test-challenge#readme",
+  "dependencies": {
+    "cypress": "^9.6.0"
+  }
+}

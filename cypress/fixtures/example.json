@@ -1,0 +1,11 @@
+{
+  "testCase1": "Commodore 64",
+  "testCase2": "HP",
+  "testCase3": "IBM",
+  "testCase4": {
+    "name": "name",
+    "introduced": "1983-08-01",
+    "discontinued": "1985-08-01",
+    "company": "Evans & Sutherland"
+  }
+}
